@@ -1,8 +1,4 @@
-﻿using System.Runtime.InteropServices;
-using BenchmarkDotNet.Attributes;
-using Microsoft.Diagnostics.Tracing.Parsers.IIS_Trace;
-
-namespace RE_Engine;
+﻿namespace RE_Engine;
 
 public class NFA
 {

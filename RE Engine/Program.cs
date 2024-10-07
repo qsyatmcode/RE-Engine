@@ -1,9 +1,4 @@
-﻿using System.Diagnostics.CodeAnalysis;
-using BenchmarkDotNet.Attributes;
-using BenchmarkDotNet.Configs;
-using BenchmarkDotNet.Running;
-
-namespace RE_Engine;
+﻿namespace RE_Engine;
 
 class Program
 {
